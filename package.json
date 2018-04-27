@@ -1,0 +1,19 @@
+{
+  "name": "simon-says",
+  "version": "1.0.0",
+  "description": "This is a node app that connects to a firebase db.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.2.1",
+    "firebase": "^4.11.0",
+    "firebase-admin": "^5.10.0"
+  },
+  "devDependencies": {
+    "onoff": "^2.0.0"
+  }
+}
